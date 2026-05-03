@@ -25,4 +25,4 @@ Protocols Used: VTP, RSTP, Trunking (802.1Q), EtherChannel, Port Security.
 Tools Used
 Cisco Packet Tracer.  
 
-نصيحة إضافية:
+
